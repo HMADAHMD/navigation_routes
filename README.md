@@ -4,7 +4,9 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application. In this project we will learn how to navigate between screens in Flutter. We will learn about both routes and navigation using pop and push method.
+If you learn something from this then please consider leaving a star or follow me.
+Thank You
 
 A few resources to get you started if this is your first Flutter project:
 
